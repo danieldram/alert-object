@@ -1,0 +1,26 @@
+{
+  "name": "alert-object",
+  "version": "0.1.1",
+  "description": "A simple way to display the contents of an object in an alert dialog, good for browser testing on devices",
+  "main": "alert-object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldram/alert-object.git",
+    "readme": "README.md"
+  },
+  "keywords": [
+    "display",
+    "object",
+    "alert",
+    "print"
+  ],
+  "author": "Miguel Ventura - Stackoverflow Response: http://stackoverflow.com/questions/1625208/print-content-of-javascript-object",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieldram/alert-object/issues"
+  },
+  "homepage": "https://github.com/danieldram/alert-object#readme"
+}
