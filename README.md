@@ -1,5 +1,5 @@
 # What Does It Do?
-A fast and simple way to encode a javascript object into a string that can be used for POST/GET params for xhr2 requests.
+ A simple way to display the contents of an object in an alert dialog, good for browser testing on devices.
 ## How To Use
 ```sh
 npm install alert-object

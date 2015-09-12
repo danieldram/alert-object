@@ -1,6 +1,6 @@
 {
   "name": "alert-object",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A simple way to display the contents of an object in an alert dialog, good for browser testing on devices",
   "main": "alert-object.js",
   "scripts": {
